@@ -1,0 +1,301 @@
+education,background,interest,math,programming,english,recommended_skill
+PhD,Business,Management,7,4,7,Creative & Business
+PhD,EEE,Writing,6,6,5,Creative & Business
+MBA,Science,Hacking,9,7,6,Cyber Security
+BBA,Commerce,Communication,5,2,9,Creative & Business
+PhD,Business,Management,4,6,9,Creative & Business
+Diploma,EEE,Building Apps,10,6,6,Software Development
+M.Sc,Statistics,Building Apps,10,7,5,Software Development
+BBA,Statistics,Problem Solving,7,9,8,Software Development
+PhD,Arts,Writing,7,3,8,Creative & Business
+B.Sc,Science,Design,4,6,8,Creative & Business
+BBA,Arts,Design,4,4,8,Creative & Business
+B.Sc,EEE,Building Apps,7,6,5,Software Development
+M.Sc,CSE,Problem Solving,10,9,8,Software Development
+MBA,Commerce,Research,9,7,5,Data Science & AI
+PhD,Business,Communication,7,6,6,Creative & Business
+B.Sc,Business,Communication,3,3,5,Creative & Business
+MBA,Commerce,Hacking,8,10,7,Cyber Security
+B.Sc,EEE,Building Apps,9,6,7,Software Development
+B.Sc,Statistics,Coding,8,7,6,Software Development
+Diploma,EEE,Building Apps,7,10,9,Software Development
+M.Sc,Statistics,Networks,7,6,9,Cyber Security
+HSC,EEE,Networks,8,6,6,Cyber Security
+PhD,Business,Writing,6,6,8,Creative & Business
+M.Sc,Statistics,Hacking,7,10,6,Cyber Security
+Diploma,EEE,Statistics,9,7,9,Data Science & AI
+PhD,EEE,AI,9,6,8,Data Science & AI
+Diploma,Statistics,Security,8,10,6,Cyber Security
+BBA,Business,Communication,6,2,7,Creative & Business
+M.Sc,CSE,Math,10,9,7,Data Science & AI
+Diploma,CSE,Problem Solving,7,7,8,Software Development
+Diploma,Science,AI,9,8,5,Data Science & AI
+MBA,Arts,Management,3,6,9,Creative & Business
+HSC,Arts,Communication,5,2,10,Creative & Business
+PhD,Business,Networks,9,8,5,Cyber Security
+HSC,Business,Statistics,9,8,5,Data Science & AI
+B.Sc,EEE,Research,7,6,6,Data Science & AI
+M.Sc,Business,Hacking,10,10,6,Cyber Security
+MBA,CSE,Problem Solving,8,7,7,Software Development
+M.Sc,Commerce,Problem Solving,8,9,9,Software Development
+M.Sc,Science,Coding,9,8,5,Software Development
+MBA,Arts,Communication,3,5,9,Creative & Business
+MBA,EEE,Coding,10,9,9,Software Development
+MBA,Arts,Design,7,4,9,Creative & Business
+MBA,Statistics,Problem Solving,9,7,8,Software Development
+M.Sc,CSE,Math,10,9,8,Data Science & AI
+BBA,CSE,Design,7,3,9,Creative & Business
+Diploma,Arts,Communication,4,2,10,Creative & Business
+HSC,EEE,AI,9,8,8,Data Science & AI
+M.Sc,Arts,Coding,8,7,8,Software Development
+PhD,Science,Hacking,7,8,9,Cyber Security
+HSC,Statistics,Problem Solving,9,9,6,Software Development
+PhD,Commerce,Management,5,4,7,Creative & Business
+MBA,Arts,Statistics,10,9,9,Data Science & AI
+M.Sc,CSE,Networks,9,6,6,Cyber Security
+Diploma,Arts,Design,5,6,10,Creative & Business
+HSC,Commerce,Management,5,5,8,Creative & Business
+PhD,CSE,Writing,3,2,5,Creative & Business
+MBA,Business,Design,5,3,9,Creative & Business
+M.Sc,Commerce,Math,8,10,6,Data Science & AI
+HSC,EEE,Math,9,6,8,Data Science & AI
+BBA,Arts,Communication,4,6,8,Creative & Business
+PhD,Science,Math,7,10,6,Data Science & AI
+MBA,Commerce,Math,8,7,6,Data Science & AI
+Diploma,CSE,Building Apps,8,7,7,Software Development
+BBA,Statistics,Statistics,8,6,7,Data Science & AI
+PhD,Business,Writing,7,2,6,Creative & Business
+HSC,CSE,Problem Solving,9,7,5,Software Development
+B.Sc,EEE,Coding,8,10,7,Software Development
+Diploma,Science,Problem Solving,8,7,9,Software Development
+MBA,Arts,Management,6,2,10,Creative & Business
+BBA,EEE,Math,9,10,8,Data Science & AI
+PhD,CSE,Coding,7,9,8,Software Development
+MBA,EEE,Math,10,6,7,Data Science & AI
+MBA,CSE,Building Apps,7,7,5,Software Development
+HSC,Business,Math,7,7,6,Data Science & AI
+B.Sc,Business,Communication,6,2,5,Creative & Business
+B.Sc,CSE,Coding,9,7,9,Software Development
+Diploma,Commerce,Design,6,3,9,Creative & Business
+HSC,Business,Communication,5,3,6,Creative & Business
+BBA,Commerce,Communication,7,6,9,Creative & Business
+BBA,Business,Management,7,5,9,Creative & Business
+M.Sc,Statistics,Coding,8,6,6,Software Development
+PhD,Statistics,Statistics,9,6,8,Data Science & AI
+M.Sc,Business,Writing,3,3,5,Creative & Business
+Diploma,Business,Coding,8,8,9,Software Development
+M.Sc,CSE,Statistics,9,9,9,Data Science & AI
+PhD,Science,Design,7,4,5,Creative & Business
+M.Sc,Statistics,Hacking,9,10,9,Cyber Security
+M.Sc,Arts,AI,10,8,10,Data Science & AI
+B.Sc,Statistics,AI,8,9,9,Data Science & AI
+Diploma,Statistics,Math,8,9,9,Data Science & AI
+Diploma,Commerce,Design,7,5,8,Creative & Business
+M.Sc,Science,Design,5,4,8,Creative & Business
+M.Sc,Business,Communication,6,6,5,Creative & Business
+M.Sc,Commerce,Communication,6,6,8,Creative & Business
+BBA,EEE,Problem Solving,9,8,9,Software Development
+MBA,Business,Building Apps,7,7,5,Software Development
+PhD,Science,Problem Solving,7,9,5,Software Development
+HSC,Science,Research,9,7,8,Data Science & AI
+B.Sc,Science,Hacking,7,10,8,Cyber Security
+M.Sc,Statistics,Statistics,10,9,8,Data Science & AI
+HSC,CSE,Coding,10,7,8,Software Development
+Diploma,Science,Statistics,8,8,7,Data Science & AI
+B.Sc,Statistics,Networks,7,7,9,Cyber Security
+HSC,Science,Security,7,7,9,Cyber Security
+M.Sc,Science,Coding,9,10,5,Software Development
+BBA,Arts,Design,4,3,9,Creative & Business
+Diploma,EEE,Statistics,7,7,8,Data Science & AI
+BBA,EEE,Building Apps,10,10,7,Software Development
+PhD,Science,Design,7,6,6,Creative & Business
+PhD,Commerce,Communication,6,3,7,Creative & Business
+M.Sc,Business,Management,3,5,6,Creative & Business
+B.Sc,Commerce,Security,8,9,7,Cyber Security
+M.Sc,Arts,Coding,8,8,8,Software Development
+Diploma,EEE,AI,8,8,7,Data Science & AI
+BBA,Arts,Management,4,5,10,Creative & Business
+PhD,EEE,Statistics,9,10,8,Data Science & AI
+PhD,Science,Design,6,2,5,Creative & Business
+Diploma,Business,Design,6,3,7,Creative & Business
+MBA,CSE,Networks,8,9,7,Cyber Security
+B.Sc,Science,Problem Solving,7,9,9,Software Development
+Diploma,Commerce,AI,9,9,9,Data Science & AI
+BBA,CSE,Coding,9,8,8,Software Development
+MBA,Science,Design,6,3,6,Creative & Business
+HSC,Arts,Management,6,4,10,Creative & Business
+HSC,Arts,Research,7,8,8,Data Science & AI
+Diploma,Arts,Writing,5,2,8,Creative & Business
+PhD,Commerce,Communication,3,6,6,Creative & Business
+B.Sc,Science,Problem Solving,8,6,6,Software Development
+B.Sc,Statistics,AI,9,8,7,Data Science & AI
+M.Sc,Commerce,Building Apps,7,6,8,Software Development
+M.Sc,Business,Security,10,7,9,Cyber Security
+HSC,Statistics,Building Apps,8,10,7,Software Development
+BBA,Science,Design,3,5,8,Creative & Business
+HSC,CSE,Design,4,4,6,Creative & Business
+HSC,EEE,Coding,9,6,8,Software Development
+BBA,Statistics,Statistics,7,10,9,Data Science & AI
+PhD,Commerce,Design,4,2,8,Creative & Business
+PhD,EEE,Coding,8,10,9,Software Development
+BBA,Business,Communication,3,6,5,Creative & Business
+B.Sc,Commerce,Management,3,2,5,Creative & Business
+Diploma,Arts,Management,4,4,8,Creative & Business
+Diploma,Arts,Design,6,2,9,Creative & Business
+MBA,CSE,Building Apps,9,10,8,Software Development
+BBA,EEE,Problem Solving,8,7,7,Software Development
+MBA,Science,Hacking,9,10,6,Cyber Security
+HSC,Science,Problem Solving,7,10,8,Software Development
+HSC,Statistics,Problem Solving,9,6,8,Software Development
+PhD,Science,Security,8,8,5,Cyber Security
+B.Sc,Business,Writing,4,5,5,Creative & Business
+MBA,Arts,Communication,3,5,8,Creative & Business
+M.Sc,CSE,Writing,3,5,5,Creative & Business
+MBA,Business,Writing,4,5,7,Creative & Business
+MBA,CSE,Research,7,9,6,Data Science & AI
+Diploma,Commerce,Communication,3,6,5,Creative & Business
+M.Sc,Commerce,Coding,10,7,8,Software Development
+MBA,Business,Design,7,3,6,Creative & Business
+HSC,EEE,Networks,10,10,9,Cyber Security
+BBA,Business,Communication,6,5,5,Creative & Business
+MBA,Science,Design,6,6,7,Creative & Business
+HSC,Commerce,Writing,3,5,9,Creative & Business
+B.Sc,EEE,Coding,9,6,6,Software Development
+B.Sc,Arts,Design,5,5,8,Creative & Business
+M.Sc,CSE,Coding,9,9,7,Software Development
+M.Sc,Statistics,Coding,7,7,7,Software Development
+MBA,Statistics,Statistics,10,10,8,Data Science & AI
+Diploma,Arts,Design,4,2,9,Creative & Business
+MBA,Commerce,Design,4,3,9,Creative & Business
+PhD,Science,Building Apps,9,10,8,Software Development
+B.Sc,CSE,Math,10,10,7,Data Science & AI
+B.Sc,Business,Coding,9,9,7,Software Development
+HSC,EEE,Networks,7,9,7,Cyber Security
+MBA,EEE,Research,7,9,8,Data Science & AI
+B.Sc,Science,Writing,3,4,6,Creative & Business
+B.Sc,CSE,Coding,7,7,8,Software Development
+Diploma,Science,Hacking,9,8,9,Cyber Security
+MBA,Arts,Management,6,3,8,Creative & Business
+B.Sc,Business,Communication,7,5,5,Creative & Business
+MBA,CSE,Research,7,6,5,Data Science & AI
+HSC,Arts,Research,8,7,8,Data Science & AI
+B.Sc,Statistics,Management,7,6,6,Creative & Business
+HSC,Business,Design,5,4,7,Creative & Business
+BBA,Arts,Management,5,4,9,Creative & Business
+BBA,Arts,Communication,5,6,9,Creative & Business
+HSC,Business,Communication,7,3,5,Creative & Business
+BBA,Science,Management,6,4,8,Creative & Business
+PhD,Business,Communication,4,2,5,Creative & Business
+M.Sc,EEE,Statistics,7,10,9,Data Science & AI
+B.Sc,CSE,Problem Solving,7,6,7,Software Development
+HSC,Business,AI,10,8,8,Data Science & AI
+M.Sc,Statistics,Math,9,6,5,Data Science & AI
+MBA,Business,Writing,5,5,7,Creative & Business
+M.Sc,Science,Statistics,9,8,7,Data Science & AI
+M.Sc,Science,Building Apps,9,6,5,Software Development
+BBA,Arts,Coding,10,10,10,Software Development
+Diploma,Arts,Communication,6,4,8,Creative & Business
+PhD,Science,AI,8,6,8,Data Science & AI
+MBA,Arts,Management,4,3,10,Creative & Business
+MBA,Business,Management,7,2,7,Creative & Business
+Diploma,Commerce,Hacking,8,8,5,Cyber Security
+Diploma,Statistics,Building Apps,9,7,9,Software Development
+BBA,Arts,Writing,4,5,8,Creative & Business
+BBA,Commerce,Design,5,6,9,Creative & Business
+MBA,Arts,Problem Solving,9,9,10,Software Development
+B.Sc,Arts,Management,3,6,9,Creative & Business
+M.Sc,EEE,Problem Solving,7,8,8,Software Development
+Diploma,Statistics,Security,9,7,6,Cyber Security
+HSC,Statistics,Research,8,9,5,Data Science & AI
+HSC,EEE,Coding,7,10,9,Software Development
+PhD,Business,Writing,5,2,8,Creative & Business
+BBA,Arts,Writing,3,3,8,Creative & Business
+M.Sc,CSE,Research,7,10,7,Data Science & AI
+MBA,Science,Math,8,8,5,Data Science & AI
+B.Sc,Business,Management,4,4,9,Creative & Business
+PhD,Arts,Coding,8,9,8,Software Development
+M.Sc,Arts,Design,3,3,8,Creative & Business
+PhD,Business,AI,9,6,5,Data Science & AI
+PhD,Arts,AI,9,6,8,Data Science & AI
+MBA,Statistics,Math,10,10,8,Data Science & AI
+HSC,CSE,Problem Solving,10,9,7,Software Development
+Diploma,Science,Coding,10,10,6,Software Development
+PhD,Statistics,Research,10,8,5,Data Science & AI
+MBA,Business,Design,5,6,5,Creative & Business
+B.Sc,Statistics,Building Apps,7,7,7,Software Development
+B.Sc,Arts,Writing,7,4,9,Creative & Business
+Diploma,Science,Building Apps,10,8,7,Software Development
+B.Sc,EEE,Building Apps,7,9,9,Software Development
+Diploma,Arts,Communication,7,2,10,Creative & Business
+Diploma,Business,Communication,3,4,9,Creative & Business
+PhD,Statistics,Building Apps,8,10,9,Software Development
+BBA,Commerce,Communication,6,4,9,Creative & Business
+M.Sc,Business,AI,10,9,8,Data Science & AI
+HSC,Science,Design,7,2,8,Creative & Business
+HSC,Business,Hacking,10,7,5,Cyber Security
+BBA,CSE,Statistics,10,8,7,Data Science & AI
+M.Sc,Commerce,Management,7,5,8,Creative & Business
+HSC,Commerce,Coding,8,9,6,Software Development
+Diploma,Business,Design,6,5,5,Creative & Business
+B.Sc,Arts,Writing,4,6,8,Creative & Business
+BBA,Arts,Design,3,3,10,Creative & Business
+HSC,Commerce,Management,6,6,5,Creative & Business
+HSC,Business,Writing,4,3,6,Creative & Business
+HSC,Statistics,Building Apps,7,7,7,Software Development
+MBA,CSE,Research,7,10,9,Data Science & AI
+PhD,EEE,Math,8,10,7,Data Science & AI
+BBA,Science,Research,8,7,6,Data Science & AI
+BBA,Business,Design,7,6,8,Creative & Business
+M.Sc,CSE,Building Apps,10,10,6,Software Development
+B.Sc,Arts,Design,4,4,8,Creative & Business
+HSC,Commerce,Problem Solving,9,7,8,Software Development
+HSC,Science,Problem Solving,7,7,7,Software Development
+PhD,Statistics,Security,9,8,7,Cyber Security
+PhD,Business,Communication,4,5,5,Creative & Business
+Diploma,CSE,Communication,3,3,5,Creative & Business
+MBA,Commerce,Management,6,4,8,Creative & Business
+Diploma,Arts,Problem Solving,9,8,9,Software Development
+M.Sc,Commerce,Design,5,5,6,Creative & Business
+M.Sc,Business,Coding,8,9,6,Software Development
+BBA,Science,Management,3,5,8,Creative & Business
+B.Sc,Commerce,Design,3,4,7,Creative & Business
+B.Sc,Statistics,Problem Solving,7,8,9,Software Development
+PhD,EEE,Coding,7,6,7,Software Development
+BBA,CSE,Math,8,7,9,Data Science & AI
+M.Sc,Science,Statistics,7,10,9,Data Science & AI
+Diploma,EEE,Problem Solving,7,7,9,Software Development
+M.Sc,Commerce,Writing,5,3,9,Creative & Business
+MBA,CSE,Coding,7,7,5,Software Development
+BBA,Science,Problem Solving,9,6,6,Software Development
+Diploma,Arts,Communication,3,6,9,Creative & Business
+M.Sc,Commerce,Design,4,4,5,Creative & Business
+M.Sc,Statistics,AI,7,10,8,Data Science & AI
+B.Sc,Arts,Writing,3,3,10,Creative & Business
+M.Sc,Business,Communication,6,2,7,Creative & Business
+BBA,Science,Statistics,7,8,7,Data Science & AI
+B.Sc,Science,Networks,10,10,9,Cyber Security
+MBA,Statistics,Security,7,8,5,Cyber Security
+MBA,CSE,Research,9,8,5,Data Science & AI
+PhD,Arts,Management,7,4,10,Creative & Business
+HSC,Statistics,Math,8,10,8,Data Science & AI
+B.Sc,EEE,Research,10,10,9,Data Science & AI
+HSC,Arts,Hacking,9,6,10,Cyber Security
+PhD,Commerce,Communication,6,6,7,Creative & Business
+B.Sc,CSE,Building Apps,8,9,8,Software Development
+MBA,Statistics,Management,5,5,5,Creative & Business
+MBA,EEE,AI,8,6,8,Data Science & AI
+Diploma,Arts,Networks,10,8,10,Cyber Security
+M.Sc,CSE,Building Apps,10,7,9,Software Development
+B.Sc,CSE,Statistics,9,7,7,Data Science & AI
+Diploma,EEE,Math,9,9,8,Data Science & AI
+BBA,CSE,Math,9,9,8,Data Science & AI
+M.Sc,Science,Writing,5,6,9,Creative & Business
+HSC,Commerce,Management,5,3,6,Creative & Business
+BBA,CSE,Problem Solving,7,7,6,Software Development
+MBA,Commerce,Communication,3,4,5,Creative & Business
+PhD,Business,Management,3,5,6,Creative & Business
+BBA,Statistics,Research,7,9,5,Data Science & AI
+Diploma,Statistics,AI,8,7,6,Data Science & AI
+HSC,Arts,Communication,5,5,9,Creative & Business
+BBA,Commerce,Writing,5,2,5,Creative & Business
+Diploma,CSE,Statistics,7,10,9,Data Science & AI
