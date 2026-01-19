@@ -1,15 +1,13 @@
-# gradio app
-
 import gradio as gr
 import pandas as pd
 import pickle
 import numpy as np
 
 # 1. Load the Model
-with open("diabetes_rf_pipeline.pkl", "rb") as f:
+with open("diabetes_model.pkl", "rb") as f:
     model = pickle.load(f)
 
-# 2. The Logic Function
+# 2. Logic Function
 def predict_diabetes(
     pregnancies, glucose, bp, skin,
     insulin, bmi, dpf, age
@@ -31,8 +29,6 @@ def predict_diabetes(
 
     # Predict
     prediction = model.predict(input_df)[0]
-
-    # Return formatted result
     return "Diabetic" if prediction == 1 else "Non-Diabetic"
 
 # 3. The App Interface
